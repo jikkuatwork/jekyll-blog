@@ -1,0 +1,11 @@
+title: Patriotic Parrots
+email: pp@parrots.com
+description: >-
+  Patriotic Paroots are a placeholder for how the blog would look like!
+baseurl: ""
+url: ""
+twitter_username: pp
+github_username:  pp
+
+plugins:
+  - jekyll-feed
