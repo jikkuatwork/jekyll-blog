@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Patriotic Parrots"
-cover: "/assets/p2.webp"
+cover: "{{ site.baseurl }}/assets/p2.webp"
 ---
 
 Are you ready to meet the most patriotic parrots you've ever seen? These feathered friends not only showcase their vibrant plumage but also wear their love for their country on their wings.
 
-![Patriotic Parrots](/assets/p1.webp)
+![Patriotic Parrots]({{ site.baseurl }}/assets/p1.webp)
 
 ### Red, White, and Squawk!
 

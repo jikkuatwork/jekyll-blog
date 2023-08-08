@@ -12,7 +12,7 @@ way it finds food without eyes or brain is remarkable.
 
 But how or why it finds food is beyong most!
 
-![slime mold](/assets/sm.webp)
+![slime mold]({{ site.baseurl }}/assets/sm.webp)
 
 If you ask anyone, most won't have an opinion. We did a survey & was surprised
 to find the following:

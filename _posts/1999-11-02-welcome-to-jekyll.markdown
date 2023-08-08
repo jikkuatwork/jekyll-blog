@@ -2,11 +2,11 @@
 layout: post
 title:  "Welcome to Jekyll!"
 categories: jekyll update
-cover: "/assets/p3.webp"
+cover: "{{ site.baseurl }}/assets/p3.webp"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-![parrot 3](/assets/p3.webp)
+![parrot 3]({{ site.baseurl }}/assets/p3.webp)
 
 Jekyll requires blog post files to be named according to the following format:
 

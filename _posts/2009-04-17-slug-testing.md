@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slug Testing
-cover: "/assets/slug.jpg"
+cover: "{{ site.baseurl}}/assets/slug.jpg"
 ---
 
 So, dates in the file name wasn't required? Front matter dates are easier to
@@ -28,7 +28,7 @@ Images can be good even when they are not directly related. For instance, we are
 talking about blog slugs. Nothing to do with the creature. But an image of the
 creature grabs attention.
 
-![slug.jpg](/assets/slug.jpg)
+![slug]({{ site.baseurl }}/assets/slug.jpg)
 
 Thats an image lifted from Twitter. I am not planning to give attribution, not
 because I want to hide the source, but because I am lazy.

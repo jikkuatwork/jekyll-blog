@@ -45,9 +45,9 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown-dark.css"
     />
-    <link rel="stylesheet" href="/assets/styles/fonts.css" />
-    <link rel="stylesheet" href="/assets/styles/custom.css" />
-    <link rel="stylesheet" href="/assets/styles/syntax.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/fonts.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/custom.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/syntax.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css"
@@ -71,11 +71,15 @@
               >{{ page.date | date: "%B %d, %Y" }}</time
             >
             <div class="text-gray-600 px-1">by</div>
-            <a href="/about.html" class="author font-bold hover:text-gray-400"
+            <a
+              href="{{ site.baseurl }}about.html"
+              class="author font-bold hover:text-gray-400"
               >Jikku Jose</a
             >
             <div class="text-gray-600 px-1">in</div>
-            <a href="/" class="author font-bold hover:text-gray-400"
+            <a
+              href="{{ site.baseurl }}"
+              class="author font-bold hover:text-gray-400"
               >jikkujose.in</a
             >
           </div>
