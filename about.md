@@ -24,7 +24,7 @@ Speaking of tools, I think tool use is a great measure of intelligence. The
 better leverage an entity could acquire is a direct feeler of their applied
 intelligence. I see engineering as a process of tool design within constraints.
 
-![neovim](/assets/nvim.png)
+![neovim]({{ site.baseurl }}/assets/nvim.png)
 
 I am passionate about the tools I use. And I am very concious of the tools I use.
 I am guilty of spending considerable amount of time fine tuning my setup
