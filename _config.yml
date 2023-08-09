@@ -1,11 +1,9 @@
-title: Patriotic Parrots
-email: pp@parrots.com
+title: Jikku Jose
+email: jikku@storybrain.com
 description: >-
-  Patriotic Paroots are a placeholder for how the blog would look like!
+  Blog
 baseurl: ""
 url: ""
-twitter_username: pp
-github_username:  pp
 
 plugins:
   - jekyll-feed
